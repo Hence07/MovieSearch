@@ -1,4 +1,76 @@
-body {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+html {
+  font-size: 10px;
+}
+
+*{
+  box-sizing: border-box;
+}
+
+body{
+  margin: 0;
+  padding: 0;
+  background-color: rgb(244, 244, 244);
+  color: #333333;
+}
+
+p{
+  font-size: 1.6rem;
+}
+
+small{
+  font-size: 1.2rem;
+}
+.container{
+  margin: auto;
+  max-width: 1000px;
+  padding: 40px;
+}
+
+.title{
+font-size: 4.4rem;
+text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
@@ -9,5 +81,5 @@ body {
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
+    monospace; */
+
